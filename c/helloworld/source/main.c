@@ -2,6 +2,8 @@
 #include <stdlib.h>
 
 
+
 int main(){
-    printf("hello world!");
+    helloWorld();
+    return (0);
 }
